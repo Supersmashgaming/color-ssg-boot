@@ -15,5 +15,6 @@ namespace storyboard{
 
         done();
     }
+    //% fixedInstance whenUsed block="Color SSG"
     export const ColorSSGBootSequence = new BootSequence(runSsgColorLogo, 0)
 }
