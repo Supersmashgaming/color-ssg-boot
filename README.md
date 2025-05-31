@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://supersmashgaming.github.io/collor-ssg-boot/](https://supersmashgaming.github.io/collor-ssg-boot/)
+> Open this page at [https://supersmashgaming.github.io/color-ssg-boot/](https://supersmashgaming.github.io/color-ssg-boot/)
 
 ## Use as Extension
 
@@ -18,7 +18,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/supersmashgaming/collor-ssg-boot** and click import
+* paste **https://github.com/supersmashgaming/color-ssg-boot** and click import
 
 #### Metadata (used for search, rendering)
 
