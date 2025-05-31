@@ -1,5 +1,5 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v2.0.56/---simulator","cdnUrl":"https://cdn.makecode.com","version":"2.0.1","target":"arcade","targetVersion":"2.0.56","repo":"supersmashgaming/color-ssg-boot"}
-// total=1673812 new=30.17% cached=65.63% other=4.20%
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v2.0.56/---simulator","cdnUrl":"https://cdn.makecode.com","version":"2.0.2","target":"arcade","targetVersion":"2.0.56","repo":"supersmashgaming/color-ssg-boot"}
+// total=1673813 new=30.17% cached=65.63% other=4.20%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -27,7 +27,7 @@ const __this = runtime;
 const pxtrt = pxsim.pxtrt;
 let yieldSteps = 1;
 ectx.setupYield(function() { yieldSteps = 100; })
-pxsim.setTitle("bock-ssg-boot");
+pxsim.setTitle("color-ssg-boot");
 pxsim.setConfigData({
  "37": 160,
  "38": 120
